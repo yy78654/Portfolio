@@ -9,7 +9,7 @@ import './App.css'
 
 function App() {
   return (
-    <Router basename={process.env.NODE_ENV === 'production' ? '/portfolio-v2' : ''}>
+    <Router basename={process.env.NODE_ENV === 'production' ? '/Portfolio' : ''}>
       <div className="App">
         <Navbar />
         <AnimatePresence mode="wait">

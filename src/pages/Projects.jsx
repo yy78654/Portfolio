@@ -22,7 +22,7 @@ const Projects = () => {
       image: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=250&fit=crop&crop=center&auto=format&q=80',
       technologies: ['React', 'JavaScript', 'CSS3', 'API Integration'],
       github: 'https://github.com',
-      live: 'https://demo.com',
+      live: 'https://fluecs.github.io/stw',
       category: 'web'
     },
     {
@@ -32,7 +32,7 @@ const Projects = () => {
       image: 'https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=250&fit=crop&crop=center&auto=format&q=80',
       technologies: ['React', 'Framer Motion', 'CSS3', 'Vite'],
       github: 'https://github.com',
-      live: 'https://demo.com',
+      live: 'https://yy78654.github.io/Portfolio',
       category: 'web'
     }
   ]
